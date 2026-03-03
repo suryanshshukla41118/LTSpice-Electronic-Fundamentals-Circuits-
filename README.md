@@ -3,3 +3,6 @@
 
 ## Waveform layout 
 <img width="952" height="840" alt="Screenshot 2026-03-03 134348" src="https://github.com/user-attachments/assets/3cc1b2bd-81d3-48d5-aa5a-6971bb5e6724" />
+
+## Power waverform
+<img width="952" height="838" alt="Screenshot 2026-03-03 142659" src="https://github.com/user-attachments/assets/54b9d28c-ec80-4306-b7fd-1a0578438057" />
